@@ -1,3 +1,3 @@
 # pedro-carneiro.github.io
 
-See it here: www.pcarneiro.com
+See it here: https://blog.pcarneiro.com
